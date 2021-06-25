@@ -8,7 +8,7 @@ Paper: [https://arxiv.org/abs/2104.08572](https://arxiv.org/abs/2104.08572)
 ## Dataset
 
 The ImageNet-Subset can be downloaded at:
-https://drive.google.com/drive/folders/1N6gn3VW2w3pLUjgGrhUIj997-h8Z1AH6
+https://drive.google.com/drive/folders/1cuqI8yuqc8u1lN_N5CbFBxEdF_VSUNbG
 
 ## Run
 
