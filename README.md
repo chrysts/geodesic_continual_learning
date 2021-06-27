@@ -26,7 +26,7 @@ incremental_train_and_eval_LF.py is the file containing the distillation loss wi
 ## Citation
 
 ```` 
-@inproceedings{Christian2020ModGrad,
+@inproceedings{Christian2021MGeoCont,
 author = {Simon, Christian and Koniusz, Piotr and  Harandi, Mehrtash},
 title = {On Learning the Geodesic Path for Incremental Learning},
 booktitle = {IEEE Computer Vision and Pattern Recognition},
