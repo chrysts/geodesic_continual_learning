@@ -1,13 +1,14 @@
 
-This is a public repository for:<br/>
+This is a public repository for the following paper:<br/>
 On learning the geodesic path for incremental learning<br/>
-CVPR 2021
+CVPR 2021 (ORAL)
+
 Paper: [https://arxiv.org/abs/2104.08572](https://arxiv.org/abs/2104.08572)
 
 
 ## Dataset
 
-The ImageNet-Subset (100 classes) can be downloaded at:
+The ImageNet-Subset dataset (100 classes) can be downloaded at:
 https://drive.google.com/drive/folders/1cuqI8yuqc8u1lN_N5CbFBxEdF_VSUNbG
 
 ## Run
